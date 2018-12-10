@@ -1,0 +1,8 @@
+12/10/2018
+wow ok so i learned today that with ctrl+shift+J i can open a javascript console in chrome! NEAT!
+I also spent about 30 minutes today learning javascript goodies in general. it's such a tiny step but 
+I hope this pays off one day :)
+//random code that won't work on notepad i'm betting haha
+1.console.log('Hiya, hope one day i can do great things!);
+2.console.log('I guess today i learned you can do math stuff here too! like this!' 50 * 6);
+
