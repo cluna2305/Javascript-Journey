@@ -1,0 +1,6 @@
+12/11/2018
+Today i learned that we can search for established methods/syntax's though a website or even google!
+such as https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
+i learned there is so much that is already done for us and it is ok to use google or our resources if we are stuck or need help!
+this is such a relief since most of this process does not revolve around memory and instead focuses on your ability to problem solve
+and use critical thinking skills!
